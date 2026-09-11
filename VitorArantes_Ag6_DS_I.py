@@ -26,7 +26,7 @@ calculo = compra * desconto
 valorfinal = compra - calculo
 
 # mensagem final
-print(f"O valor a pagar é RS${valorfinal:.2f}")
+print(f"O valor a pagar é R${valorfinal:.2f}")
 
 # separador
 print("============================================")
